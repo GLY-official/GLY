@@ -10,3 +10,4 @@ foreach (line_ ${sourcecode})
 endforeach ()
 file (RENAME include/soci/unsigned-types.h include/soci/unsigned-types.h.orig)
 file (RENAME include/soci/unsigned-types.h.patched include/soci/unsigned-types.h)
+
