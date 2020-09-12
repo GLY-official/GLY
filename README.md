@@ -9,6 +9,6 @@
 
 区块链浏览器：https://cn.etherscan.com/
 
-开源地址：https：//github.com/gly-official/gly
+开源地址：https://github.com/gly-official/gly
 
 GLY部落电子邮件：community@gly.com
