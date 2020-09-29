@@ -1,14 +1,6 @@
-# GLY
-星火
-星火去中心化平台，简称“星火”，是由美国区块链研究所（IBI）联合全球35家区块链技术研发中心共同创立的去中心化平台，秉承区块链去中心化的理念，摒除传统去中心化平台弊端，实现真正的公平、公正、公开的去中心化数字交易平台2.0，平台覆盖资产交易、子母矿场生态、跨链和开源公链等多元矩阵联盟。
-
-星火是基于公链开发的真正去中心化链上开放平台，公开源代码，区块链可查，可追溯，无中央服务器，发行机制上线则自动永久锁定，永不增发，包含开发团队在内的任何人不可篡改，系统性能高，交易便捷，绝对保护用户资产安全，星火去中心化平台不仅仅是一个数字货币交易所，更是一个数字资产的交易枢纽，使用POS-DPBFT投资组合共识算法，最快的1秒即可完成共识账本记录。TPS可达一百万级。
-
-秉承区块链去中心化的理念，摒除传统去中心化平台弊端，发行子母双币。星火母币GLY发行总量：2100万枚，星火子币发行总量：21亿枚
-
-
-区块链浏览器：https://cn.etherscan.com/
-
-开源地址：https://github.com/gly-official/gly
-
-GLY部落电子邮件：community@gly.com
+The Spark decentralized platform, referred to as "Xinghuo", is a decentralized platform co-founded by the U.S. Blockchain Institute (IBI) and 35 blockchain technology R&D centers around the world, adhering to the decentralization of the blockchain The concept, in addition to the drawbacks of traditional decentralized platforms, to achieve a truly fair, just and open decentralized digital trading platform 2.0, which covers asset transactions, parent-child mine ecology, cross-chain and open source public chains and other multi-matrix alliances .
+Xinghuo is a truly decentralized open platform based on public chain development, open source code, blockchain can be checked, reversed, no central server, the issuance mechanism will be automatically and permanently locked when it is online, and will never be issued, including the internal development team No one can tamper with, the system performance is high, the transaction is convenient, and the security of user assets is absolutely protected. Another digital currency exchange on the Spark decentralized platform is also a digital asset trading hub, using the POS-DPBFT portfolio consensus algorithm, The consensus ledger record can be completed in 1 second of acceleration. TPS can reach one million levels.
+Adhering to the concept of blockchain decentralization, replacing the drawbacks of traditional decentralized platforms, issuing dual currency pairs. The number of GLY issuance: 21 million, and the issuance of ICO is 210,000. The reverse ranking weighting algorithm is used for mining.
+Blockchain browser: https://cn.etherscan.com/
+Open source address: https: //github.com/gly-official/gly
+GLY tribe email: community@gly.com
