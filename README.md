@@ -6,6 +6,6 @@ Adhering to the concept of blockchain decentralization, replacing the drawbacks 
 
 Blockchain browser: https://cn.etherscan.com/
 
-Open source address: https: //github.com/gly-official/gly
+Open source address: https://github.com/gly-official/gly
 
-GLY tribe email: community@gly.com
+GLY tribe email:community@gly.com
